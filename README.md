@@ -127,7 +127,7 @@ The pan limits exist so that the servo cable running up to the platform cannot w
 itself around the rig.
 
 Diagram of the finished product
-  
+  ![Assembly diagram](Finished-Diagram.svg)
 
 ## Files
 
