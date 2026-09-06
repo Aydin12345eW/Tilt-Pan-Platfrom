@@ -94,14 +94,16 @@ All dimensions in millimetres. If you are using 1 mm cardboard, laminate it to t
 layer counts shown, with the corrugation running crosswise between plies. Thicker
 cardboard needs fewer layers.
 
-| Part | Qty | Size | Layers at 1 mm | Cutouts |
-|---|---|---|---|---|
-| Base plate | 1 | 100 x 100 | 3 | 30 mm dia hole, centred |
-| Legs | 4 | 30 x 20 | 4 | — |
-| Yoke base | 1 | 60 x 60 | 4 | 5 mm dia hole, centred, with a 20 x 20 reinforcing patch |
-| Upright A | 1 | 50 x 40 | 4 | 22 x 12 servo slot, shaft centre 35 mm from bottom |
-| Upright B | 1 | 50 x 40 | 4 | 2 mm dia pivot hole, 35 mm from bottom |
-| Platform | 1 | 48 x 60 | 3 | — |
+
+
+| Part | Qty | Size | Cutouts |
+|---|---|---|---|
+| Base plate | 1 | 100 x 100 || 30 mm dia hole, centred |
+| Legs | 4 | 30 x 20 | — |
+| Yoke base | 1 | 60 x 60 | 5 mm dia hole, centred, with a 20 x 20 reinforcing patch |
+| Upright A | 1 | 50 x 40 | 22 x 12 servo slot, shaft centre 35 mm from bottom |
+| Upright B | 1 | 50 x 40 | 2 mm dia pivot hole, 35 mm from bottom |
+| Platform | 1 | 48 x 60 | — |
 
 The uprights glue flush to the outer edges of the yoke base, leaving a 52 mm gap for
 the 48 mm platform. Mount the servo on the outside of upright A so its body cannot
@@ -123,6 +125,9 @@ Nothing moves on its own. Every motion is something you do.
 
 The pan limits exist so that the servo cable running up to the platform cannot wind
 itself around the rig.
+
+Diagram of the finished product
+  
 
 ## Files
 
